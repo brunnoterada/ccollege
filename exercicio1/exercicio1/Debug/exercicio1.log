@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+C:\Users\Brunno\Desktop\ccollege\exercicio1\exercicio1\Origem.cpp(8,38): warning C4101: 'salarioreduzido': variável local não referenciada
+C:\Users\Brunno\Desktop\ccollege\exercicio1\exercicio1\Origem.cpp(8,28): warning C4101: 'oliquota': variável local não referenciada
+  exercicio1.vcxproj -> C:\Users\Brunno\Desktop\ccollege\exercicio1\Debug\exercicio1.exe
